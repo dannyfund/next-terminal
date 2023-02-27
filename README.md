@@ -1,7 +1,4 @@
-# Next Terminal
 
-[![Docker guacd build](https://github.com/dushixiang/next-terminal/actions/workflows/docker-guacd.yml/badge.svg)](https://github.com/dushixiang/next-terminal/actions/workflows/docker-guacd.yml)
-[![Docker next-terminal build](https://github.com/dushixiang/next-terminal/actions/workflows/docker-next-terminal.yml/badge.svg)](https://github.com/dushixiang/next-terminal/actions/workflows/docker-next-terminal.yml)
 
 ## 快速了解
 
@@ -26,23 +23,13 @@ Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP�
 
 ## 在线体验
 
-**web**
-
-https://next.typesafe.cn/ 账号：test  密码：test
-
-**ssh server**
-
-主机：next.typesafe.cn
-端口：2022
-账号：test  密码：test
 
 ## 协议与条款
 
-如您需要在企业网络中使用 next-terminal，建议先征求 IT 管理员的同意。下载、使用或分发 next-terminal 前，您必须同意 [协议](./LICENSE) 条款与限制。本项目不提供任何担保，亦不承担任何责任。
+如您需要在企业网络中使用，建议先征求 IT 管理员的同意。下载、使用或分发前，您必须同意 [协议](./LICENSE) 条款与限制。本项目不提供任何担保，亦不承担任何责任。
 
 ## 快速安装
 
-- [安装文档](https://next-terminal.typesafe.cn)
 
 默认账号密码为 admin/admin 。
 
@@ -56,17 +43,7 @@ https://next.typesafe.cn/ 账号：test  密码：test
 
 ## 问题反馈
 
-- Issues
-- 微信群 加我微信拉你进群 (请备注 next-terminal)
-
-<img src="wx.png" width="300"  height="auto"/>
-
-- QQ群 938145268
-- Telegram https://t.me/next_terminal
-
 ## 安全问题
-
-如果您在使用过程中发现了安全问题，请发送邮件至 helloworld1024@foxmail.com 联系我，谢谢。
 
 ## License 
 
